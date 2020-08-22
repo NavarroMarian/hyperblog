@@ -19,6 +19,12 @@ body
 
 }
 
+#container h1
+{
+    font-size: 20px;
+}
+
+
 #cabecera
 {
     background: #33A;
@@ -35,10 +41,3 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
-
-
-#container h1
-{
-    font-size: 20px;
-}
-
